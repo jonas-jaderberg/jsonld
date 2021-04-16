@@ -119,7 +119,7 @@
       "seeAlso": "http://datex2.eu/schema/3/Situation"
     },
 	 {
-	  "@id": "datex_Situation:Situation",
+	  "@id": "Situation",
 	  "label": {
 		"@value": "Situation",
 		"@language": "en"
